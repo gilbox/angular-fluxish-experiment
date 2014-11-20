@@ -1,4 +1,6 @@
-angular-fluxish-experiment
+angular-simflux-experiment
 ==========================
 
-Using pure angular to create a flux-ish architecture
+Experimenting with Flux architecture in angularjs using [simflux.js](https://github.com/gilbox/simflux)
+
+[Live Demo](http://gilbox.github.io/angular-simflux-experiment/)
