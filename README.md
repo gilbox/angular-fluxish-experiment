@@ -1,6 +1,8 @@
-angular-simflux-experiment
+angular-fluxish-experiment
 ==========================
 
-Experimenting with Flux architecture in angularjs using [simflux.js](https://github.com/gilbox/simflux)
+Experimenting with Flux-like architecture in angularjs using plain ol' angularjs.
 
-[Live Demo](http://gilbox.github.io/angular-simflux-experiment/)
+The dispatcher is replaced with direct calls to store functions in the Action Creator.
+
+[Live Demo](http://gilbox.github.io/angular-fluxish-experiment/)
